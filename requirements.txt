@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+sentence-transformers
+faiss-cpu
+numpy
+joblib
+tqdm
+flask
+python-dotenv
+google-generativeai
+pathlib
