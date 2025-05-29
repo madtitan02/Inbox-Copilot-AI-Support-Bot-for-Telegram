@@ -2,6 +2,12 @@
 
 A Retrieval-Augmented Generation (RAG) system for answering questions about Blaze platform documentation. Built with FAISS vector search, sentence transformers, and Google Gemini AI.
 
+# Video Tutorial
+
+
+https://github.com/user-attachments/assets/64e21ddc-4529-407a-9ff6-01ddd7cacb13
+
+
 **🆕 NEW: Telegram Bot Integration!** 
 The copilot is now available as a Telegram bot at [@sybau_skrt_bot](https://t.me/sybau_skrt_bot)
 
