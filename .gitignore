@@ -1,0 +1,19 @@
+# Local environment and credentials
+.env
+.venv/
+venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local retrieval artifacts
+*.faiss
+*.index
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
