@@ -2,6 +2,10 @@
 
 A Python prototype for answering questions about Blaze documentation through a retrieval-augmented workflow. The repository includes a command-line entry point, a Flask web interface, and a Telegram bot integration.
 
+## Video tutorial
+
+https://github.com/user-attachments/assets/64e21ddc-4529-407a-9ff6-01ddd7cacb13
+
 > Current repository status: this checkout imports a `blaze_docs` package that is not included here. The retrieval pipeline therefore needs that package (and its configured documentation/index data) before the application can run end to end.
 
 ## Included components
